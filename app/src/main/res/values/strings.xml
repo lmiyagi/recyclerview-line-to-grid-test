@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerView Line To Grid Test</string>
+    <string name="change_layout">Change Layout</string>
 </resources>
